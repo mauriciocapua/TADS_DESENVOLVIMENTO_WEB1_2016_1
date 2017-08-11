@@ -1,0 +1,13 @@
+
+4
+down vote
+steps :
+
+run your xampp control panel
+click the button saying config
+select apache( httpd.conf )
+find document root
+replace
+
+DocumentRoot "C:/xampp/htdocs"
+<Directory "C:/xampp/htdocs">
